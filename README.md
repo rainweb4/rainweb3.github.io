@@ -57,7 +57,7 @@ web3_doc/
 ### 🔗 快捷链接
 [![GitHub](https://github.com/fluidicon.png)](https://github.com/rainweb4/rainweb3.github.io)
  [![RainWeb3Weaver Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/RainWeb3Weaver)
- [![RainWeb3](https://img.shields.io/badge/知乎-0084ff?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/rain-47-84-83)
+ [![RainWeb3](https://img.shields.io/badge/知乎-0084ff?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/rainweb3)
 [![RainWeb3](https://img.shields.io/badge/掘金-1E81FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/599705882203355)
 
 ---
