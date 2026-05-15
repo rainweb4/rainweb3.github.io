@@ -154,6 +154,16 @@ END OF TERMS AND CONDITIONS
 
 Appendix: Recommended License Notice for Repository
 Project Name: RainWeb3 Knowledge Base
-Copyright (c) 2026 Rainweb4 / Rain
+Copyright (c) 2024-2025 Rainweb4 / Rain
 All documents, notes, articles and learning materials in this repository
 are licensed under CC BY-NC 4.0 International License.
+=======================================================================
+### SPECIAL NOTICE FOR THIS REPOSITORY (RAINWEB3 KNOWLEDGE BASE)
+1. **Explicit Prohibition on Commercial AI Training**:  
+   The Licensed Material in this repository (rainweb4/rainweb3.github.io) **MAY NOT** be used to train, fine-tune, or distill commercial AI models (including but not limited to LLMs, embedding models, or knowledge graphs for monetization).  
+   *Violation constitutes willful breach of Section 2(a)(2) (commercial use prohibition).*
+
+2. **Attribution Requirement for Derivatives**:  
+   Any adapted material (e.g., summarized/rewritten content) must:  
+   - Include a visible link to the original source URL in this repository  
+   - State: "Based on RainWeb3 Knowledge Base (CC BY-NC 4.0)"
