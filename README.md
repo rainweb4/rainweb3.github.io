@@ -61,3 +61,18 @@ web3_doc/
 [![RainWeb3](https://img.shields.io/badge/掘金-1E81FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/599705882203355)
 
 ---
+---
+## 📄 版权与使用协议
+Copyright © 2026 Rainweb4 / Rain
+
+本仓库全部 Web3 技术文档、笔记、教程类内容，
+统一采用 **CC BY-NC 4.0 知识共享署名-非商业性使用 4.0 国际协议** 开源授权。
+
+### 使用规范
+✅ 允许：免费查阅、本地下载、个人学习、技术交流、非盈利转载整理
+✅ 允许：基于原文修改优化，仅用于自用学习提升
+❌ 禁止：任何形式付费售卖、课程变现、商业引流、企业商用、打包盈利
+📌 转载、引用、公开分发内容时，**必须标注原作者 Rain 与本仓库来源**
+
+完整官方协议可查阅：
+http://creativecommons.org/licenses/by-nc/4.0/
