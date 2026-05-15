@@ -1,9 +1,7 @@
 ### 新域名：https://rainweb4.github.io
 ### 新地址：https://github.com/rainweb4/rainweb3.github.io
 ---
-### （旧地址-因账号问题-暂停更新）
-### 旧域名：https://rainweb3.github.io/
-### 旧地址：https://github.com/rainweb3/rainweb3.github.io
+### 旧地址（因账号封禁-已废弃）：https://github.com/rainweb3/rainweb3.github.io
 ---
 ### 🌟 嗨，我是 `[Rain]`！👋  
 ### 这里是web3知识库
@@ -61,17 +59,20 @@ web3_doc/
 [![RainWeb3](https://img.shields.io/badge/掘金-1E81FF?style=for-the-badge&logo=juejin&logoColor=white)](https://juejin.cn/user/599705882203355)
 
 ---
----
 ## 📄 版权与使用协议
-Copyright © 2024-2025 Rainweb4 / Rain
+**Copyright © 2024–2026 Rainweb4 / Rain**
 
 本仓库全部 Web3 技术文档、笔记、教程类内容，
-统一采用 **CC BY-NC 4.0 知识共享署名-非商业性使用 4.0 国际协议** 开源授权。
+统一采用 **CC BY-SA 4.0 知识共享署名-相同方式共享 4.0 国际协议** 开源授权。
 
-### 使用规范
-- ✅ 允许：免费查阅、本地下载、个人学习、技术交流、非盈利转载整理
-- ✅ 允许：基于原文修改优化，仅用于自用学习提升
-- ❌ 禁止：任何形式付费售卖、课程变现、商业引流、企业商用、打包盈利
-- 📌 转载、引用、公开分发内容时，**必须标注原作者 Rain 与本仓库来源**
+### ✅ 使用规范
+- **允许自由使用**：免费查阅、本地下载、个人学习、技术交流。
+- **允许商业使用**：可用于商业场景（如课程开发、企业培训），但必须严格遵守本协议条款。
+- **允许修改与分发**：基于原文修改、整合或二次创作。
 
-- 完整官方协议可查阅：[CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+### 🚫 核心要求 (相同方式共享)
+- **必须署名**：转载、引用、分发时，必须标注原作者 **Rain** 与本仓库来源。
+- **必须相同方式共享**：基于本内容进行修改或衍生创作后，**必须沿用 CC BY-SA 4.0 协议**发布，不得使用更严格的限制性协议。
+
+- 完整官方协议可查阅：  
+  [CC BY-SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
