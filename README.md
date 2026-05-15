@@ -63,7 +63,7 @@ web3_doc/
 ---
 ---
 ## 📄 版权与使用协议
-Copyright © 2026 Rainweb4 / Rain
+Copyright © 2024-2025 Rainweb4 / Rain
 
 本仓库全部 Web3 技术文档、笔记、教程类内容，
 统一采用 **CC BY-NC 4.0 知识共享署名-非商业性使用 4.0 国际协议** 开源授权。
@@ -74,4 +74,4 @@ Copyright © 2026 Rainweb4 / Rain
 - ❌ 禁止：任何形式付费售卖、课程变现、商业引流、企业商用、打包盈利
 - 📌 转载、引用、公开分发内容时，**必须标注原作者 Rain 与本仓库来源**
 
-- 完整官方协议可查阅：http://creativecommons.org/licenses/by-nc/4.0/
+- 完整官方协议可查阅：[CC BY-NC 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
